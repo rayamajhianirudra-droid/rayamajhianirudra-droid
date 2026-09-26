@@ -85,3 +85,7 @@ public class AJ {
 ---
 
 ## 🌍 Journey
+
+**Nepal 🇳🇵 → Texas 🇺🇸 → Minnesota 🇺🇸**
+
+Investment Banking → Amazon → Full Stack Dev → Hackathon Winner → Building.
