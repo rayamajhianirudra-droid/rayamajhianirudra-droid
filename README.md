@@ -76,8 +76,6 @@ public class AJ {
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rayamajhianirudra-droid&theme=tokyonight&hide_border=true)
