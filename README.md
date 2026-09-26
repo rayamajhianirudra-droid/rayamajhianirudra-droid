@@ -76,10 +76,11 @@ public class AJ {
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=rayamajhianirudra-droid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayamajhianirudra-droid&layout=compact&theme=tokyonight&hide_border=true" />
+![GitHub Streak](https://streak-stats.demolab.com?user=rayamajhianirudra-droid&theme=tokyonight&hide_border=true)
 
 </div>
 
